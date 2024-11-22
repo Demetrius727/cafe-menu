@@ -1,10 +1,11 @@
 # cafe-menu
 
-Title: Learn CSS by Building a Cafe Menu.
+NOTE: Project that I developed on the freeCodeCamp platform.
 
-Description: In this course, you'll learn CSS by designing a menu page for a cafe webpage.
+Course Title: Learn CSS by Building a Cafe Menu.
 
-NOTE: Project developed on the freeCodeCamp platform.
+Course Description: In this course, you'll learn CSS by designing a menu page for a cafe webpage.
+
 
 
 
