@@ -1,6 +1,9 @@
 # cafe-menu
 
-NOTE: Project that I developed on the freeCodeCamp platform.
+NOTE: Project that I developed on the [freeCodeCamp](https://www.freecodecamp.org/demetrius7) platform.
+
+- HTML
+- CSS
 
 Course Title: Learn CSS by Building a Cafe Menu.
 
